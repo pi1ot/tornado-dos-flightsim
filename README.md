@@ -4,4 +4,4 @@ This is the Digital Integration 1993 DOS Tornado flight simulator source code. B
 Uploaded by Nitro (tornado.rebooted@gmail.com) 
 Thursday 26th January 2017.
 
-License: To Kill
+License: To kill and to thrill
